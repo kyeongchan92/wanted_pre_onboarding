@@ -6,15 +6,15 @@
 - 기업과제 1. 문자열 매칭 알고리즘 구현
 - 기업과제 2. 데이터 분석 및 시각화
 - 기업과제 3, 4\
-[최종 제출 깃헙(팀원계정)](https://github.com/codenavy94/WantedPreOnboarding_Team9)\
+[최종 제출 깃헙(팀원계정)(4번과제는 Private 전환됨)](https://github.com/codenavy94/WantedPreOnboarding_Team9)\
 [Fork 후 추가 정리한 깃헙](https://github.com/kyeongchan92/WantedPreOnboarding_Team9)
 
 ## Weekn_k_assignment.ipynb : n주차 k일째의 과제
 
 ### Week1. NLP task
-- Week1_1 :  NLP sub task 중에 2개를 선택하여 본인 블로그에 정리.  [QA(Question Answering)이란?](https://blog.naver.com/cardchan/222653484009), [Sentiment Analysis (감성분석)이란?](https://blog.naver.com/cardchan/222653567329)
+- Week1_1 :  NLP sub task 중에 2개를 선택하여 본인 블로그에 정리.[QA(Question Answering)이란?](https://blog.naver.com/cardchan/222653484009), [Sentiment Analysis (감성분석)이란?](https://blog.naver.com/cardchan/222653567329)
 - Week1_2 : NLU sub task 중 하나를 선택하여 본인 블로그에 정리. [Natural Language Inference(자연어추론)란?](https://blog.naver.com/cardchan/222654565141)
-- Week1_3 :  NLG extractive summarization task에 대해서 본인 블로그에 정리. [Extractive Text Summarization이란?](https://blog.naver.com/cardchan/222655639827)
+- Week1_3 :  NLG xtractive summarization task에 대해서 본인 블로그에 정리. [Extractive Text Summarization이란?](https://blog.naver.com/cardchan/222655639827)
 - Week1_4 : 리뷰 긍부정 판별 모델을 만들 때 의사결정 과정
 
 
